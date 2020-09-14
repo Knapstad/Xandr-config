@@ -1,0 +1,5 @@
+homepage: 'https://www.knapstad.dev'
+documentation: 'https://www.github.com/knapstad/gtm-templates'
+versions:
+  - sha: 82b895f9f16964a1bfbc62b2f495dc6e61d824fb
+    changeNotes: Initial release
