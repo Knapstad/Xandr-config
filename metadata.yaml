@@ -1,6 +1,9 @@
 homepage: 'https://www.knapstad.dev'
 documentation: 'https://www.github.com/knapstad/gtm-templates'
 versions:
-  # Latest version  
+  # Latest version
+  - sha: 4ccf49a71ae9e1209e9ce96f86e6bbd3b9e7f0cb
+    changeNotes: added support for multipple ids
+  # Previous versions
   - sha: 03c0629b3f8942f4ee0258d5cb0f641f65c02a97
     changeNotes: added correct names
