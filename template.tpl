@@ -79,7 +79,7 @@ let pixie = copyFromWindow('pixie');
 pixie = copyFromWindow('pixie');
 tracking_ids.forEach(
   function(id){
-      pixie('init', id);
+      pixie('init', id.trim());
   });
 
 pixie('event', 'PageView');
