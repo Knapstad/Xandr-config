@@ -11,7 +11,7 @@ ___INFO___
 {
   "type": "TAG",
   "id": "cvt_temp_public_id",
-  "version": 2,
+  "version": 3,
   "securityGroups": [],
   "displayName": "Xandr config",
   "brand": {
