@@ -11,7 +11,7 @@ ___INFO___
 {
   "type": "TAG",
   "id": "cvt_temp_public_id",
-  "version": 3,
+  "version": 1,
   "securityGroups": [],
   "displayName": "Xandr config",
   "description": "Unofficial template to add Xandr pixie script to site\nBest used with the Xandr Event template",
