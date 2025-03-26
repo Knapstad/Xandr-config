@@ -31,7 +31,6 @@ ___INFO___
   }
 }
 
-
 ___TEMPLATE_PARAMETERS___
 
 [
