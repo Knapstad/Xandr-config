@@ -2,9 +2,19 @@ homepage: "https://www.knapstad.dev"
 documentation: "https://www.github.com/knapstad/gtm-templates"
 versions:
   # Latest version
+  - sha: cb627ee686999d8b7a09a287f0f0e75b9a643087
+    changeNotes: This update enhances the Xandr Config Tag implementation by adding flexibility for diverse tracking needs.
+                 ✅ Added support for standard parameters
+                   - item_id
+                    -item_name
+                    -item_type
+                    -value
+                 🔧 Introduced the ability to include custom parameters
+                  🧩 Improved flexibility and compatibility with a variety of tracking use cases.
+
+  # Previous versions
   - sha: aa79637f4d02e7986e173d5dbdf6303af1761ace
     changeNotes: Added new logo
-  # Previous versions
   - sha: 524dee3b976b1c89a49b0312555617ba0a30538b
     changeNotes: Fixed support for multipple ids. Changed capitalization for desctiption
   - sha: 3cf279c3bf508335b57eefb0f27f93ac9f995fb8
